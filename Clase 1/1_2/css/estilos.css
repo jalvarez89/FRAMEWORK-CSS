@@ -1,0 +1,35 @@
+*{
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+}
+.primera{
+    height: 50px;
+    background: lightblue;
+    margin-top: 20px;
+}
+.item{
+    height: 250px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#uno{
+    background: rgb(95, 95, 255);
+    height: 100px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#dos{
+    background: tomato;
+}
+#tres{
+    background: rgb(132, 219, 0);
+}
+#cuatro{
+    background: rgb(54, 1, 54);
+}
